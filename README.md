@@ -1,26 +1,7 @@
-# COMM4190 Spring 2025 - Research Project
+# COMM4190 Spring 2025 - AI Potential for Rational Agency in Game Theory
 
-* Use this repository for your Research Project
+This project addresses the idea of human communication through the cooperation principle via LLM-human conversation. 
 
+Through economic games such as the Prisoners' Dilemma, the extent to which LLMs respond to the cooperation principle will be tested for its applications in more real-life scenarios.
 
-### Overview
-
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
-
+The model tested in this experiment was OpenAI's o1-mini, selected for its advanced reasoning potential. A Prisoners' Dilemma-type game was chosen for its ease of use in a limited conversational setting, however the potential for more multi-stage games in future research could provide additional information on the limitations of LLM cooperation.
